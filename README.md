@@ -26,9 +26,8 @@ I’m moving toward data analytics because I enjoy understanding how things work
 - **Data Visualisation:** Tableu, Spreadsheets
 - **Data Analysis:** Cleaning, Structuring, Exploring datasets
 ---
-<h2>📂 Completed projects✔️</h2>
 
-## 📂 Portfolio Projects
+<h2>📂 Completed projects✔️</h2>
 
 - [**Advanced SQL and Databases**](https://github.com/EdmundasKrasnikovas/Data-Analytics/tree/main/Advanced%20SQL%20and%20Databases)  
   *Complex joins, window functions, and database optimization techniques.*
@@ -53,8 +52,6 @@ I’m moving toward data analytics because I enjoy understanding how things work
   <li><strong> 🎛️ Recently I've did a workshop for teenegers, creating modular synth 🔊  </li>
   <li><strong> ☄️ Once taught someone to spit a fireball in under 10 minutes </li>
   <li><strong> 🏡 Love to DIY things. Currenly rebuilding a summer house  </li>
-  <li><strong>  </li>
-  <li><strong> </li>
 </ul>
 
 <h2>📬 Contact Me</h2>
