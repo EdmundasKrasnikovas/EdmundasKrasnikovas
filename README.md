@@ -36,7 +36,7 @@ I’m moving toward data analytics because I enjoy understanding how things work
   *Fundamental SQL queries using AdventureWorks and BigQuery.*
 
 - [**Spreadsheets for Data Analytics**](https://github.com/EdmundasKrasnikovas/Data-Analytics/tree/main/Utilising%20Spreadsheets%20for%20Data%20Analytics)  
-  *Description of your Excel/Sheets projects, focusing on pivot tables and data cleaning.*
+  *Sheets projects, focusing on pivot tables and data cleaning and visualization.*
 
 - [**Structured Approach to Data Analytics**](https://github.com/EdmundasKrasnikovas/Data-Analytics/tree/main/Structured%20Approach%20to%20Data%20Analytics)  
   *A deep dive into the outcome-oriented process: Ask, Prepare, Process, Analyze.*
@@ -45,7 +45,7 @@ I’m moving toward data analytics because I enjoy understanding how things work
   *Data visualization projects and interactive dashboards.*
 
 - [**Python**](./Python)  
-  *Scripting for automation, data scraping, and pandas analysis.*
+
 
 <h2> 💁 Also me</h2>
 <ul>
