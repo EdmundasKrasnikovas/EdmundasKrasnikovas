@@ -94,6 +94,7 @@ Currently learning 📚
   <li><strong> 🎛️ Recently I've did a workshop for teenegers, creating modular synth 🔊  </li>
   <li><strong> ☄️ Once taught someone to spit a fireball in under 10 minutes </li>
   <li><strong> 🏡 Love to DIY things. Currenly rebuilding a summer house  </li>
+  <li><strong> 📸 Analog photography, Development & Printing  </li>
 </ul>
 
 <h2>📬 Contact Me</h2>
