@@ -56,7 +56,8 @@ the mindset was modeling.**
 ---
 <h2>🛠️ Skills</h2>
 
-- **Languages:** SQL, Python ( Begginer🪜 )
+- **Languages:** SQL,PostgreSQL, Python ( Begginer🪜 )
+- **Databases:** Relational databases, PostgreSQL, DBMS fundamentals
 - **Tools:** Spreadsheets, Git, Docker (n8n), DB Browser
 - **Data Visualisation:** Tableu, Spreadsheets
 - **Data Analysis:** Cleaning, Structuring, Exploring datasets
