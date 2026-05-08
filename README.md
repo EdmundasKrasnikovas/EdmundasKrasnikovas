@@ -1,73 +1,30 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1eHdhYms0a2M0bDY2Ynlqc2k2MjN5NDc2a3M0dzdhdzNiaGhvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDeYzCwoZlvclPUhf9/giphy.gif" alt="" width="450"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1eHdhYms0a2M0bDY2Ynlqc2k2MjN5NDc2a3M0dzdhdzNiaGhvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDeYzCwoZlvclPUhf9/giphy.gif" alt="" width="500"/>
 </p>
 
 <h1 align="center"> Welcome Friend! </h1>
-<p align="center"> My name is Edmundas. I like turning complexity into structure — and I’m growing into Analytics Engineering</p>
+<p align="center"> My name is Edmundas, I’m data enthusiast and here you could find more information about me</p>
 
-## 🧱 My Data Layers
-
-Before working with warehouses, I was already thinking in layers.
-
-### `/raw`
-
-Operational data:
-- Partner accounts  
-- Invoicing inputs  
-- Hiring tracking  
-- Access auditing records  
-
-Unstructured, inconsistent, team-specific formats.  
-Multiple spreadsheet-based tools solving isolated problems.
-
----
-
-### `/staging`
-
-Standardizing and transforming data to fit stakeholder needs.
-
-- Unified templates across 40+ teams  
-- Column alignment and naming conventions  
-- Pre-populated setups  
-- Transposing and restructuring layouts  
-- Aggregations and reconciliation logic  
-- Validation checks to reduce errors  
-
-Turning fragmented inputs into structured, consistent datasets.
-
----
-
-### `/marts`
-
-Consolidated datasets used by:
-
-- CS Ops Departament ( Trainings, Workforce Management, Member Support Operations)   
-- IT, Sys Engineers, Backend Engineers
-- Financial stakeholders  
-
-Reusable data assets adapted per audience instead of rebuilding reports from scratch.
-
----
-
-**The tools were spreadsheets —
-the mindset was modeling.**
-
+<p align="center">
+<h2></h2>
+<p>
+For the last few years, I’ve been working heavily with Google Sheets to support day-to-day operations — building relational structures for partner data, creating audit checks, and setting up small workflows with formulas, Looker imports, and Google Apps Script. Later I took full ownership of invoicing for 4k+ agents, turning working hours and shift data into transparent financial summaries that stakeholders relied on.
+</p>
+<p>
+Past experience showed me how much impact structured approach and insights can create. That curiosity pushed me to learn more — first through DataCamp, and later at Turing College, where I strengthened my analytical thinking and hands-on problem-solving.
+</p>
+<p>
+I’m moving toward data analytics because I enjoy understanding how things work, spotting patterns, and building solutions that actually help people. I’m looking for opportunities where I can apply what I know while growing through real, practical work. 
+</p> 
+<p> Below you can find a few projects where I’ve applied my current skills. </p>
 
 ---
 <h2>🛠️ Skills</h2>
 
-- **Languages:** SQL,PostgreSQL, Python ( Begginer🪜 )
-- **Databases:** Relational databases, PostgreSQL, DBMS fundamentals
+- **Languages:** SQL, Python ( Begginer🪜 )
 - **Tools:** Spreadsheets, Git, Docker (n8n), DB Browser
 - **Data Visualisation:** Tableu, Spreadsheets
 - **Data Analysis:** Cleaning, Structuring, Exploring datasets
-
-Currently learning 📚
-- **Dbt fundamentals**
-- **Data modeling patterns**
-- **Data quality testing**
-
-
 ---
 
 <h2>📂 Completed projects✔️</h2>
@@ -95,7 +52,6 @@ Currently learning 📚
   <li><strong> 🎛️ Recently I've did a workshop for teenegers, creating modular synth 🔊  </li>
   <li><strong> ☄️ Once taught someone to spit a fireball in under 10 minutes </li>
   <li><strong> 🏡 Love to DIY things. Currenly rebuilding a summer house  </li>
-  <li><strong> 📸 Analog photography, Development & Printing  </li>
 </ul>
 
 <h2>📬 Contact Me</h2>
